@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -pedantic -g  -Wl,--enable-auto-import CMakeFiles/Project2.dir/main.c.o CMakeFiles/Project2.dir/futo.c.o  -o Project2.exe -Wl,--out-implib,libProject2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/gribb/CLionProjects/p2/futo.c
+futo.h
+/cygdrive/c/Users/gribb/CLionProjects/p2/futo.h
+stdio.h
+-
+stdlib.h
+-
+
+/cygdrive/c/Users/gribb/CLionProjects/p2/futo.h
+
